@@ -1,0 +1,71 @@
+Guia de Restaurantes La Paz (Prueba - Datos Aproximados)
+IMPORTANTE: Documento de prueba solicitado por el usuario. Ratings, horarios y direcciones son aproximados y deben verificarse antes de uso
+comercial o publicacion. Escala precio: $ <Bs60, $$ Bs60-120, $$$ >Bs120.
+Fine Dining / Autor
+Nombre Tipo Rating Precio Direccion Barrio Horario
+Gustu Alta cocina boliviana contempo~4.6 $$$ Av. Costanera 3000 (San Miguel) Calacoto L-S 12:30-15:00 / 19:00-22:30 | D 12:30-
+Ali Pacha Gastronomia vegetal / degustac~4.7 $$$ C. Colon 1306 (esq. Potosi) Centro M-S 19:00-22:30 | D-Cerrado | L 12:30-15
+Ancestral Cocina boliviana de autor ~4.5 $$$ Av. 20 de Octubre 2174 Sopocachi M-S 12:30-15:00 / 19:00-22:30 | D 12:30-
+Phayawi Cocina andina contemporanea ~4.4 $$$ C. Presbitero Medina 242 Sopocachi M-S 19:00-22:30 | D 13:00-16:00
+Popular Cocina Boliviana Cocina boliviana reinterpretad ~4.6 $$$ Av. 20 de Octubre 2080 Sopocachi M-S 12:30-15:30 / 19:00-22:00 | D 12:30-
+Cocina Pacena / Boliviana Tradicional
+Nombre Tipo Rating Precio Direccion Barrio Horario
+Dona Elba Tradicional pacena ~4.5 $$ Av. Montenegro 934 San Miguel L-D 12:00-16:00 / 19:00-22:00
+El Vagon del Sur Comida boliviana ~4.3 $$ Av. Costanera (Frente Multicine Sur) Calacoto L-D 12:00-22:00
+Pronto Dali Almuerzos pacenos / menu ~4.2 $ Av. 6 de Agosto 2535 Sopocachi L-S 12:00-15:30 | D Cerrado
+Manq'a Sopocachi Cocina boliviana social ~4.4 $ Av. 20 de Octubre 2176 Sopocachi L-S 12:00-15:30 | D Cerrado
+Namas Te Comida casera pacena ~4.3 $ C. Rosendo Gutierrez 832 Sopocachi L-S 12:00-15:00 | D Cerrado
+La Tranquera Pacena Platos tipicos ~4.2 $$ Av. Illimani 1475 Miraflores L-D 12:00-22:00
+La Casona de La Pacena Comida boliviana ~4.1 $$ C. Murillo 956 Centro L-D 12:00-22:00
+Kalakitas Choripan / snacks tipicos ~4.5 $ C. Comercio 1455 Centro L-D 11:00-22:30
+Comida Rapida / Casual Moderna
+Nombre Tipo Rating Precio Direccion Barrio Horario
+Factory Burgers & Beers Hamburguesas artesanales ~4.4 $$ Av. Montenegro 1001 San Miguel L-D 12:00-23:00
+Lupito Hamburguesas / casual ~4.5 $$ Av. 20 de Octubre 2345 Sopocachi M-D 12:00-22:30 | L Cerrado
+Jardin de Asia Express Fusion asiatica casual ~4.2 $$ Patio de Comidas Ventura Mall (ref.) Calacoto L-D 12:00-22:00
+Souvlaki Comida griega rapida ~4.3 $ Av. 6 de Agosto 2764 Sopocachi L-D 12:00-22:00
+Subway Sopocachi Sandwiches ~4.0 $ Av. 20 de Octubre 2100 Sopocachi L-D 09:00-22:00
+Burger King Multicine Fast food ~4.0 $ Av. Arce (Multicine) Sopocachi L-D 11:00-22:30
+Pollos Copacabana El PradoPollo broaster ~4.1 $ Paseo El Prado 1125 Centro L-D 11:00-23:00
+Internacional / Fusion / Japonesa / Peruana
+Nombre Tipo Rating Precio Direccion Barrio Horario
+Matsuri Japonesa / sushi ~4.4 $$$ Av. Montenegro 890 San Miguel L-D 12:30-15:00 / 19:00-22:30
+Ichiban Japonesa ~4.3 $$$ Av. Costanera 2800 Calacoto L-D 12:30-15:00 / 19:00-22:30
+Sakura Japonesa / sushi ~4.2 $$ Av. Arce 2515 Sopocachi L-D 12:00-15:00 / 18:30-22:30
+Blueberry Cafe & fusion ~4.5 $$ Av. Montenegro 955 San Miguel L-D 08:00-22:00
+Ludo Cocina a la Vista Fusion internacional ~4.6 $$$ Av. 14 de Septiembre 4800 Calacoto M-S 12:30-15:00 / 19:00-22:30 | D 12:30-
+The Writer's Cafe (Atix) Cafe / internacional ~4.4 $$ C. 16 de Calacoto (Hotel Atix) Calacoto L-D 07:00-22:00
+Lhardy Mediterranea ~4.3 $$$ Av. Sanchez Bustamante 2760 Sopocachi M-S 12:30-15:00 / 19:30-23:00 | D 12:30-
+La Guinguette Francesa / bistro ~4.5 $$$ Av. Arce 2631 Sopocachi M-S 12:30-15:00 / 19:00-22:30 | D 12:30-
+Paladar Colectivo Fusion / mercado gourmet ~4.4 $$ C. 10 de Calacoto 123 Calacoto L-D 11:00-22:00
+Mercat Tapas / mediterranea ~4.3 $$ Av. Montenegro 970 San Miguel M-D 12:30-23:00 | L Cerrado
+Fridolin (resto cafe) Internacional / pasteleria ~4.3 $ Av. 20 de Octubre 2050 Sopocachi L-D 08:00-21:00
+La Cabrera La Paz Parrilla argentina ~4.5 $$$ Av. Ballivian 789 Calacoto L-D 12:30-15:30 / 19:00-23:00
+Cafeterias / Brunch / Bakery
+Nombre Tipo Rating Precio Direccion Barrio Horario
+Typica Cafe Especialidad / brunch ~4.6 $ Av. 6 de Agosto 2235 Sopocachi L-D 08:00-21:00
+HB Bronze Coffee Bar Cafe de especialidad ~4.7 $ C. Rosendo Gutierrez 850 Sopocachi L-D 08:00-21:00
+The Carrot Tree Sopocachi Brunch / saludable ~4.5 $ Av. 20 de Octubre 2479 Sopocachi L-D 08:00-21:00
+Panaderia Los Qnapes Bakery / panes ~4.4 $ Av. 20 de Octubre 1980 Sopocachi L-D 07:30-21:00
+Cesar Cacao Chocolate / cafe ~4.6 $ Av. Montenegro 930 San Miguel L-D 10:00-21:00
+Alexander Coffee 20 de OctubCafeteria / sandwiches ~4.2 $ Av. 20 de Octubre 2145 Sopocachi L-D 07:30-22:00
+Parrillas / Carnes
+Nombre Tipo Rating Precio Direccion Barrio Horario
+El Arriero Parrilla / carnes ~4.4 $$$ Av. Ballivian 1300 Calacoto L-D 12:00-16:00 / 19:00-23:00
+Brass Steakhouse / grill ~4.3 $$$ Av. 14 de Septiembre 4825 Calacoto M-S 12:30-15:00 / 19:00-22:30 | D 12:30-
+El Asador Parrilla ~4.2 $$$ Av. Arce 2510 Sopocachi L-D 12:30-15:30 / 19:00-22:30
+La Olla de Barro Parrilla / criolla ~4.1 $$ Av. 6 de Agosto 2675 Sopocachi L-D 12:00-22:00
+Chalet La Suisse Fondue / europea ~4.6 $$$ Calzada 626 (Mallasa) Mallasa J-D 12:30-15:30 / 19:00-22:00 | L-M-M Ce
+Vegano / Saludable / Specialty
+Nombre Tipo Rating Precio Direccion Barrio Horario
+Vegan Bites Vegano ~4.5 $ Av. 6 de Agosto 2700 Sopocachi L-S 12:00-21:00 | D 12:00-17:00
+Sabor a Tierra Vegetariano / saludable ~4.4 $ C. Bozo 1234 Sopocachi L-S 12:00-15:30 | D Cerrado
+Pronto (opciones veg) Casero / opciones veganas ~4.2 $ Av. 6 de Agosto 2550 Sopocachi L-S 12:00-15:30 | D Cerrado
+Ali Pacha (menu vegetal) Degustacion vegetal ~4.7 $$$ C. Colon 1306 Centro M-S 19:00-22:30 | D Cerrado
+Otros (Pizzerias / Cervecerias / Helados)
+Nombre Tipo Rating Precio Direccion Barrio Horario
+Mozzarella Pizza Pizzeria artesanal ~4.3 $$ Av. 20 de Octubre 2200 Sopocachi L-D 18:00-23:00
+El Hornito Pizzeria ~4.2 $ Av. Montenegro 980 San Miguel L-D 18:00-23:00
+La Sede Cerveceria Taproom / comida casual ~4.5 $$ Av. 20 de Octubre 2845 Sopocachi M-D 17:00-00:00 | L Cerrado
+Vainilla (Heladeria) Helados artesanales ~4.4 $ Av. Montenegro 910 San Miguel L-D 11:00-21:00
+Sir Francis (Heladeria) Helados artesanales ~4.5 $ Av. 6 de Agosto 2300 Sopocachi L-D 11:00-21:00
