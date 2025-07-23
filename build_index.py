@@ -8,6 +8,7 @@ import numpy as np
 import faiss
 import pdfplumber
 import openai   # importamos el cliente clásico
+from openai import OpenAI
 
 # ───── Configuración ─────
 DATA_PATH     = "data/pdfs"
@@ -19,7 +20,8 @@ CHUNK_OVERLAP = 200
 BATCH_SIZE    = 100
 
 # Inicializa clave de OpenAI
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# openai.api_key = os.getenv("OPENAI_API_KEY") # replaced by modern client
+openai_client = OpenAI()
 
 
 def get_pdf_text(path: str) -> str:
@@ -78,14 +80,14 @@ for i in range(0, len(texts), BATCH_SIZE):
     batch = texts[i : i + BATCH_SIZE]
     print(f"[build_index] Procesando lote {i//BATCH_SIZE + 1}"
           f"/{(len(texts)-1)//BATCH_SIZE + 1}")
-    # Usamos la API “clásica”
-    response = openai.Embedding.create(
+    # Usamos el cliente moderno
+    response = openai_client.embeddings.create(
         model=EMB_MODEL,
         input=batch
     )
     # .data es la lista de embeddings devuelta
     for entry in response.data:
-        emb_list.append(entry["embedding"])
+        emb_list.append(entry.embedding)
 
 
 # ────────────────────────────────────────────────────────────────
