@@ -1,9 +1,9 @@
-entrypoint = "bash -lc 'pip install -r requirements.txt && python3 main.py'"
-modules   = ["python-3.11"]
+run = "uvicorn main:app --host 0.0.0.0 --port 8000"
+modules = ["nodejs-20", "python-3.11"]
 
 [nix]
 channel = "stable-24_05"
-packages = ["bash", "cargo", "libiconv", "libxcrypt", "rustc"]
+packages = ["azure-functions-core-tools", "bash", "cargo", "libiconv", "libxcrypt", "rustc", "zip"]
 
 [unitTest]
 language = "python3"
@@ -12,9 +12,14 @@ language = "python3"
 requiredFiles = [".replit", "replit.nix"]
 
 [deployment]
-run             = ["python3", "main.py"]
+run = ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
 deploymentTarget = "cloudrun"
+
+[[ports]]
+localPort = 7071
+externalPort = 3000
 
 [[ports]]
 localPort = 8000
 externalPort = 80
+
