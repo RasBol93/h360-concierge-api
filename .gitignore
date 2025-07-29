@@ -1,8 +1,8 @@
 # -------------------------------------------------
-#          Python – proyecto H360 Concierge
+#          Python – proyecto H360 Concierge
 # -------------------------------------------------
 
-# Byte‑compiled / optimised / DLL files
+# Byte-compiled / optimised / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -48,9 +48,9 @@ uv.lock
 .hypothesis/
 .coverage
 .coverage.*
+.mypy_cache/
 .pytype/
 .pyre/
-.mypy_cache/
 .dmypy.json
 dmypy.json
 htmlcov/
@@ -92,4 +92,5 @@ __pypackages__/
 .pixi
 .pixi.lock
 
-# Archivos grandes q
+# Archivos grandes a excluir
+*.zip
