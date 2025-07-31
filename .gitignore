@@ -94,3 +94,9 @@ __pypackages__/
 
 # Archivos grandes a excluir
 *.zip
+
+# -------------------------------------------------
+#  🔒 Archivos de credenciales GCP (nunca subir)
+# -------------------------------------------------
+h360chatbot-*.json
+
